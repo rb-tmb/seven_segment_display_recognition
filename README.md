@@ -4,4 +4,10 @@ Using the method from [pyimagesearch](https://pyimagesearch.com/2017/02/13/recog
 
 Here the images are from a multimeter reading current drawn by a Quadrotor during operation.
 
+The dictionary for recognizing the digits is based on this numbering system,
+
+
+
+Also seven can appear like the images below depending on the display, hence 7 has 2 entries in the dictionary
+
 
